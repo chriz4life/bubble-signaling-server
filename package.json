@@ -1,4 +1,7 @@
-{
+{"scripts": {
+  "start": "node server.js"
+}
+
   "name": "bubble-signaling-server",
   "version": "1.0.0",
   "main": "server.js",
@@ -7,7 +10,4 @@
     "socket.io": "^4.7.2",
     "cors": "^2.8.5"
   }
-}
-"scripts": {
-  "start": "node server.js"
 }
